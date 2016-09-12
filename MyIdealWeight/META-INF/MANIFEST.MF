@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 14.0-b16 (Sun Microsystems Inc.)
+MIDlet-1: MyIdealWeight,/Know-Ideal-Weight.png,Midlet.MyIdealWeight
+MIDlet-Vendor: C-DAC
+MIDlet-Name: MyIdealWeight
+MIDlet-Description: Signing- VeriSign
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+

@@ -1,0 +1,18 @@
+MIDlet-Name: Calc
+MIDlet-Vendor: Roar Lauritzsen
+MIDlet-Version: 4.52
+MIDlet-Description: Scientific RPN Calculator
+MIDlet-Icon: /resources/Calc.png
+MIDlet-Info-URL: http://midp-calc.sf.net/Calc.html
+MIDlet-Data-Size: 2048
+MIDlet-Jar-URL: http://midp-calc.sf.net/CalcMIDP2.jar
+MIDlet-Jar-Size: 127265
+MIDletX-LG-Contents: G7100
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: Calc, /resources/Calc.png, midpcalc.Calc
+iDEN-MIDP-KEY-LEFT: -3
+iDEN-MIDP-KEY-RIGHT: -4
+iDEN-MIDP-KEY-UP: -1
+iDEN-MIDP-KEY-DOWN: -2
+iDEN-MIDP-KEY-OK: -5
